@@ -1,0 +1,9 @@
+.products{
+  margin-left: 60px;
+}
+.products1,.Products2{
+  display: flex;
+  margin: 50px auto;
+  text-align: center;
+  
+}
